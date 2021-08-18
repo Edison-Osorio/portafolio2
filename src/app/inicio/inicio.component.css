@@ -1,0 +1,31 @@
+
+.img-header {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    float: right;
+    margin-left: 6em;
+  }
+  .cont-description{
+  padding-bottom: 2em;
+  }
+  
+  .info {
+    padding-left: 150px;
+  }
+  
+  .inicio {
+    margin-top: 2.5em;
+  }
+  .frase {
+    width: 350px;
+    padding: 1em;
+    margin-left: 25em;
+    background: rgba(184, 180, 180, 0.8);
+    border-radius: 50px;
+  }
+  
+  .autor{
+      font-size: 12px;
+      text-align: right;
+  }

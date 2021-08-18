@@ -1,0 +1,12 @@
+body {
+  font-family: "helvetica neue";
+  font-size: 19px;
+   background: url(./assets/bg-pattern.png);
+   margin: auto;
+   padding: auto;
+}
+img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+}

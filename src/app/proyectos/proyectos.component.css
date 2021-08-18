@@ -1,0 +1,33 @@
+.info-titulo {
+  width: 900px;
+  padding: 1em;
+}
+
+.informacion {
+  width: 900px;
+  padding-left: 2em;
+  padding-top: .5em;
+  padding-bottom: 2em;
+}
+
+img {
+  border-radius: 0%;
+  width: 250px;
+  height: 250px;
+  margin-left: 15px;
+}
+
+h3 {
+  margin-left: 5px;
+text-align: center;
+}
+
+p {
+  width: 250px;
+  text-align: center;
+  font-size: 14px;
+}
+.contenedorPortafolio{
+    background: rgb(144, 144, 163);
+    width: 300px;
+}
