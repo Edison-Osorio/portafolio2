@@ -5,7 +5,7 @@ import { MiInformacionComponent } from './mi-informacion/mi-informacion.componen
 import { ProyectosComponent } from './proyectos/proyectos.component';
 
 const routes: Routes = [
-  {path:'', component:InicioComponent},
+  {path:'inicio', component:InicioComponent},
   {path:'about', component: MiInformacionComponent},
   {path:'proyectos', component: ProyectosComponent}
 ];
